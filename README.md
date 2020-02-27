@@ -1,5 +1,5 @@
 # Go Sample Project
-![](https://github.com/otanikotani/go-sample-project/.github/workflows/release/badge.svg)
+![](https://github.com/otanikotani/go-sample-project/workflows/.github/release/badge.svg)
 
 Sample Go Project with semantic releases
 
