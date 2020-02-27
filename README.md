@@ -1,6 +1,7 @@
-# semantic-release-test
+# Go Sample Project
+![](https://github.com/otanikotani/go-sample-project/workflows/release/badge.svg)
 
-![](https://github.com/otanikotani/semantic-release-test/workflows/release/badge.svg)
+Sample Go Project with semantic releases
 
 Testing semantic Go releases 
 
