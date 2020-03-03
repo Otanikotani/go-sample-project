@@ -75,3 +75,6 @@ The footer should contain any information about **Breaking Changes** and is also
 
 **Breaking Changes** should start with the word `BREAKING CHANGE:` with a space or two newlines.
 The rest of the commit message is then used for this.
+
+
+^ This is a burning copy-paste
